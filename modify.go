@@ -33,7 +33,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/mmitton/asn1-ber"
+	"github.com/nqray/asn1-ber"
 )
 
 const (
