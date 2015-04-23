@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/johnweldon/asn1-ber"
+	"github.com/mmitton/asn1-ber"
 )
 
 const (
